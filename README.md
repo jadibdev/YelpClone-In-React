@@ -1,3 +1,5 @@
+This was the start of a Yelp Clone project on codecademy, the code here so far is from the free trial version part of the project, it introduces React and shows how to build a few components, put them together and render them.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
